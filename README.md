@@ -1,7 +1,4 @@
 # LinearRegression
-VENKAT HITENDRA NARLA
-800936744
-email - vnarla@uncc.edu
 
 INSTRUCTIONS
 1. First create a directory for input in hdfs
